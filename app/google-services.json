@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "840007426164",
+    "firebase_url": "https://automation-47434.firebaseio.com",
+    "project_id": "automation-47434",
+    "storage_bucket": "automation-47434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840007426164:android:9c5c272320ddd9d6",
+        "android_client_info": {
+          "package_name": "com.example.clean_pegasus.automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840007426164-rndg0sfpt0kqo7nt5cdhfkckn0to0h8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clean_pegasus.automation",
+            "certificate_hash": "68be88a90ff32f47aea055491c9796ccacf8c38e"
+          }
+        },
+        {
+          "client_id": "840007426164-1hi2ealpaeqb436dn9i1fdqlegqa4m53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VvYed2g6kAbWlzb7N43J8B6Z6oewY3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840007426164-1hi2ealpaeqb436dn9i1fdqlegqa4m53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840007426164:android:26fbcffe88505d0e",
+        "android_client_info": {
+          "package_name": "com.example.clean_pegasus.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840007426164-d9hg1prff72r4cqe57r5tdjf523b726d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clean_pegasus.homeautomation",
+            "certificate_hash": "68be88a90ff32f47aea055491c9796ccacf8c38e"
+          }
+        },
+        {
+          "client_id": "840007426164-1hi2ealpaeqb436dn9i1fdqlegqa4m53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VvYed2g6kAbWlzb7N43J8B6Z6oewY3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840007426164-1hi2ealpaeqb436dn9i1fdqlegqa4m53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
